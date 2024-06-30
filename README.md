@@ -6,9 +6,6 @@ This project aims to extract news data from a website using BeautifulSoup, clean
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
