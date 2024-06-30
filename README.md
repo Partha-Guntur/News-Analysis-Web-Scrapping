@@ -17,8 +17,8 @@ To get started with this project, you'll need to have Python installed on your m
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/news-sentiment-analysis.git
-    cd news-sentiment-analysis
+    git clone https://github.com/Partha-Guntur/News-Analysis-Web-Scrapping.git
+    cd News-Analysis-Web-Scrapping
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
